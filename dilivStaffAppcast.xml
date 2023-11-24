@@ -4,10 +4,10 @@
         <title>Diliv_Staff</title>
         <!-- Android -->
         <item>
-            <title>v1.2.107</title>
-            <description>업데이트 알림창 추가</description>
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
             <pubDate>Fri, 24 Nov 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.pqinet.diliv_staff" sparkle:version="1.1.15" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.pqinet.diliv_staff" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
